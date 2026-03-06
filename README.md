@@ -56,7 +56,7 @@ CSV files – containing tempo information for the available music tracks
 4. Connect the Arduino to the computer via USB.
 5. Upload the provided MATLAB code to begin reading ECG data.
 6. Ensure MATLAB scripts and music tempo CSV files are located in the working directory.
-<img width="463" height="835" alt="image" src="https://github.com/user-attachments/assets/fb0586c7-b2bb-4ecf-9d8b-7b59552b1982" />
+<img width="340" height="133" alt="image" src="https://github.com/user-attachments/assets/f885e38d-991e-43d7-a757-47a1db3846ba" />
 <img width="715" height="875" alt="image" src="https://github.com/user-attachments/assets/83e2fb11-ab85-4f22-9c43-694f37387aa4" />
 
 
@@ -94,6 +94,7 @@ CSV – song tempo data and BPM mappings
 MATLAB (.m) – signal processing and playback scripts
 Arduino (.ino) – microcontroller code
 Documentation (.pptx / .docx / .pdf) – project documentation
+
 
 
 
