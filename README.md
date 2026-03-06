@@ -58,8 +58,7 @@ CSV files – containing tempo information for the available music tracks
 6. Ensure MATLAB scripts and music tempo CSV files are located in the working directory.
 <img width="340" height="133" alt="image" src="https://github.com/user-attachments/assets/f885e38d-991e-43d7-a757-47a1db3846ba" />
 <img width="292" height="520" alt="image" src="https://github.com/user-attachments/assets/5aa57de3-36f1-43d6-8d2a-02c7b500f526" />
-
-
+This is the hardware setup, the AD8232 Heart Monitor should be blinking red when connected. Once you run the provided code your output should like like the image above and the corresponding music file should play.
 
 
 **How to Use the System**
@@ -95,6 +94,7 @@ CSV – song tempo data and BPM mappings
 MATLAB (.m) – signal processing and playback scripts
 Arduino (.ino) – microcontroller code
 Documentation (.pptx / .docx / .pdf) – project documentation
+
 
 
 
